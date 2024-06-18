@@ -1,3 +1,4 @@
 [submodule "kuwaiba"]
 	path = docs	
 	url = https://github.com/SabNK/kuwaiba_docs
+	branch = main
