@@ -11,15 +11,15 @@ build:
 
 submodules:
   include:
-     - docs
+    - kuwaiba_docs
   recursive: true
 
 sphinx:
-  configuration: kuwaiba_docs/docs/source/conf.py
+  configuration: kuwaiba_docs/source/conf.py
 
 python:
   install:
-    - requirements: kuwaiba_docs/docs/requirements.txt
+    - requirements: kuwaiba_docs/requirements.txt
     # Install our python package before building the docs
     - method: pip
       path: .
