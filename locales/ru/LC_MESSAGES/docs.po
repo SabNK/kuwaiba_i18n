@@ -1,0 +1,468 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2010-2024, Neotropic SAS
+# This file is distributed under the same license as the Kuwaiba package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kuwaiba 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-18 13:23+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../docs/source/admin/backup.rst:2 84697a5079e14497a5be2a526ee1385d
+msgid "Backup"
+msgstr ""
+
+#: ../../docs/source/admin/installation.rst:2 d6e5393facb1451e80169c70277a7679
+msgid "Installation"
+msgstr ""
+
+#: ../../docs/source/admin/logging.rst:2 083f1988b17c41fb93639113393f8af7
+msgid "Logging"
+msgstr ""
+
+#: ../../docs/source/admin/product_desc.rst:2 669dfb17e8e247928b442ccf95509b69
+msgid "Product Description"
+msgstr ""
+
+#: ../../docs/source/concepts/onthology.rst:2 71cc6aa722884d999dbf797519a2982c
+msgid "Onthology"
+msgstr ""
+
+#: ../../docs/source/concepts/onthology.rst:4 0c985ad300764cec881a36d7591e7211
+msgid ""
+"An important part of knowledge base and domain specific language is "
+"onthological approach to glossary and etc."
+msgstr ""
+
+#: ../../docs/source/concepts/onthology.rst:7 fc9e538d903b49488974755884bd3081
+msgid "Acronyms"
+msgstr ""
+
+#: ../../docs/source/concepts/onthology.rst:9 63ca46da4c0d48b39290fc0e59802bd7
+msgid ""
+"**RST** - reStructuredText - a `lightweight markup language`_ used for "
+"technical documentation"
+msgstr ""
+
+#: ../../docs/source/concepts/onthology.rst:13 a332b36ca8ed47088eb4ac5086acfeb7
+msgid "**RTD** - ReadTheDocs - a platform for documentation"
+msgstr ""
+
+#: ../../docs/source/concepts/onthology.rst:16 0316974c4a254ad4aeac705b893b1121
+msgid ""
+"**RTL** - reStructuredText by LeXtudio -- extension for VS Code to "
+"support work with RST"
+msgstr ""
+
+#: ../../docs/source/concepts/telecom.rst:2 5d8e5b294bcf44a1b6590069082608a6
+msgid "Telecom"
+msgstr ""
+
+#: ../../docs/source/concepts/telecom.rst:5 2025985b583640f397b6837f554a07a4
+msgid "OSI model"
+msgstr ""
+
+#: ../../docs/source/concepts/telecom.rst:8 c021354a97c24fc4b7d150cacca16f57
+msgid "eTOM"
+msgstr ""
+
+#: ../../docs/source/index.rst:22
+msgid "Start"
+msgstr ""
+
+#: ../../docs/source/index.rst:31
+msgid "Concepts"
+msgstr ""
+
+#: ../../docs/source/index.rst:39
+msgid "Admin"
+msgstr ""
+
+#: ../../docs/source/index.rst:49
+msgid "User"
+msgstr ""
+
+#: ../../docs/source/index.rst:56
+msgid "Models"
+msgstr ""
+
+#: ../../docs/source/index.rst:63
+msgid "Tutorials"
+msgstr ""
+
+#: ../../docs/source/index.rst:2 d6b5164dadde4cda87b508e312b02d23
+msgid "Welcome to Kuwaiba's documentation!"
+msgstr ""
+
+#: ../../docs/source/index.rst:4 5eb37d678d4b402a828b3c4733e11d48
+msgid ""
+"**Kuwaiba** is an open-source Java framework for Inventory Application "
+"with primarily focus at Telecom. Kuwaiba addressed to the middle level "
+"companies with mature processes and automation desire. Being developed "
+"with practice in mind, Kuwaiba delivers unique flexibility that makes it "
+"not *yet another inventory*, but let it act as a framework to be suited "
+"to the customer needs. It offers a *simple* and *intuitive* API.  `Open-"
+"source community <https://sourceforge.net/p/kuwaiba/discussion/>`_ will "
+"help you to make first steps."
+msgstr ""
+
+#: ../../docs/source/index.rst:11 8dd5358e42454a85b600cc816c9f890e
+msgid "Kuwaiba hosts its documentation on Read the Docs."
+msgstr ""
+
+#: ../../docs/source/index.rst:13 1a3a3d239c314a6c966d27ed005fdcda
+msgid ""
+"Check out the :doc:`onboarding </start/onboarding>` section for further "
+"information, including :ref:`get in touch<let's try>`."
+msgstr ""
+
+#: ../../docs/source/index.rst:16 dae9b5486d85498fa61b24ba607f987e
+msgid "Let's start your Kuwaiba journey..."
+msgstr ""
+
+#: ../../docs/source/index.rst:20 eab069c8db944f579be8d228ca08959f
+msgid "This project is under active development."
+msgstr ""
+
+#: ../../docs/source/models/service_provisioning.rst:2
+#: 6339e8a58e264b9fb00d33370d19e99f
+msgid "Service Provisioning"
+msgstr ""
+
+#: ../../docs/source/start/community.rst:2 a17fa41ea86445cdae50724fd02db828
+msgid "Community"
+msgstr ""
+
+#: ../../docs/source/start/contribute/absolute_beginner.rst:2
+#: 3345eb987883474f9703db420dcad619
+msgid "Helper for absolute beginner"
+msgstr ""
+
+#: ../../docs/source/start/contribute/absolute_beginner.rst:4
+#: 4f0aa557f27f453bb829df9c0243da3e
+msgid ""
+"It might happens that you, like me, is absolute beginner not only in "
+"terms of software development, but even an unexperienced computer user. "
+"But being a human you understand that writing is the most essential "
+"knowledge transfer. And as a resposible Kuwaiba user you want to bring "
+"some efforts on the table to help others deploying and using the "
+"application. That's why I decided to make this short helper to let you be"
+" involved in the remarkable process of delivering new power to our "
+"colleagues."
+msgstr ""
+
+#: ../../docs/source/start/contribute/absolute_beginner.rst:10
+#: 74383c6728de4e50a89a4f3b478aa3f6
+msgid "What is Git"
+msgstr ""
+
+#: ../../docs/source/start/contribute/absolute_beginner.rst:11
+#: 6a84b5af727e43539cf7b4477e9c8a4e
+msgid "How to install Git https://youtu.be/4xqVv2lTo40"
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:2
+#: 2f3679e09daf45ec9e81dd11ad1d3598 560a5d854f9141668aa7ce8ae443191d
+msgid "Contributing to Documenting Kuwaiba from scratch"
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:4
+#: 311fae65b0f04e7f874b1a44d0efb689 58882ec2ce7040d586b94b592fdde9cb
+msgid ""
+"Kuwaiba documentation is build on ReadTheDocs_ (RTD) platform. That means"
+" automatic documentation deployment with the Sphinx_ engine. To work with"
+" that platform you need git_ installed, `github account`_ and `text "
+"editor`_, working with git. We prefer `VS Code`_, so the following story "
+"will be in relation with this editor, but you can work with the one of "
+"your choice."
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:15
+#: 69c12e9162a34bc8bca15b420ee81ec9 e56577ed211449b4b3b9a64c33b71801
+msgid "If you are new with VS Code, see official videos, covering our needs:"
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:13
+#: 9bf98e14f78e4b5d9248772112630591 b9ff5ca8e0034f049f1c849895dd860a
+msgid "Learn Visual Studio Code in 7min (`Official Beginner Tutorial`_)"
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:14
+#: 33b0d6e3ef0046f4bf5635ebd1ed0368 cda323d43e3c4e96a81bd093a8f8b789
+msgid "Git: `Commits in Visual Studio Code`_"
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:15
+#: 4949cc60986149a181f78ebafdd148ad a4b1a420dfc0431ab8af49ff76bcc0a1
+msgid "5 Tips for `Note Taking`_ with VS Code & Git"
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:16
+#: 1c0ef21353d94460b0e3f668e244b6d0 e1571062220e430eb0acf4d1cb6202c6
+msgid "`Pull Requests`_ in VS Code"
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:18
+#: 2636acba02574b3e9f8a568831aacc98 9e09970e73874757a6aa1a67ae9ac366
+msgid ""
+"As far as :hoverxref:`RTD <my-rtd-label>` is using reStructuredText_ "
+"(RST) it is considered useful to install an extension `reStructuredText "
+"by LeXtudio`_ (RTL). Unfortunately the extension is now considered for "
+"experienced users so we give you :doc:`some "
+"breadcrumbs</start/contribute/make_lextudio_work>`."
+msgstr ""
+
+#: ../../docs/source/start/contribute/documentation.rst:22
+#: 9afbeb0baca74586a98194a637a966a2 a45384ced2da43a09d114b1721677109
+msgid ""
+"When you feel comfortable enough with VS Code, you might find useful the "
+"official `Sphinx RST Tutorial`_ or try this `nice video course`_ by "
+"chance available on youtube."
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:2
+#: 875fa7d2ed754a0887be9fc0cb49f685
+msgid "Make reStructuredText by LeXtudio (RTL) working"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:4
+#: c6f3717ce93c4e89a436b92db3545436
+msgid "Below is a process of installing RTL in **Windows**."
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:9
+#: 622819e4cf504cea81ec6bbfbe1a6f8d
+msgid "Prerequisites:"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:7
+#: af849eba9d694cbba9d7d5c551131552
+msgid "VS Code installed"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:8
+#: 0b67474a52fc42cebb43cf1047139941
+msgid "Docs files from docs repo on Github were pulled to the working directory"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:9
+#: edb8308bd2274c0087537ed78baa73f6
+msgid ""
+"You are familiar with recommended :ref:`official videos VS Code <official"
+" videos vs code>`"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:11
+#: 93b668d4b33349398fda3d7c44e1c8fc
+msgid ""
+"Check that Python is installed on your machine. :kbd:`⊞ Win` + :kbd:`cmd`"
+" and then print"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:17
+#: dcfccc0b491742cba4ed120d27b49c73
+msgid ""
+"your version should be higher than ``3.8.0``. If Python is missed or the "
+"version is old you should get it from `official source`_. It is "
+"recommended to add ``python.exe`` to the path -- see checkbox on the "
+"initial screen before installation. In the end it is recommended to "
+"disable path limit. After installation is complete, reload VS Code to let"
+" the path to Python scripts updates."
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:22
+#: f856073b7cd54601a5e72a708ea01fb0
+msgid ""
+"In VS Code press :kbd:`⌃ Control` + :kbd:`⇧ Shift` + :kbd:`X` to open "
+"extension marketplace, find `Python by Microsoft`_ and install."
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:25
+#: a2003b43d60d42f7a7f5c91324f0ce8d
+msgid ""
+"In case of multiple Python installations choose the correct one by "
+":kbd:`⌃ Control` + :kbd:`⇧ Shift` + :kbd:`P` and command ``Python: Select"
+" Interpreter``"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:28
+#: 193d42e559974c949ea46e39176499fb
+msgid ""
+"In VS Code press  :kbd:`⌃ Control` + :kbd:`⇧ Shift` + :kbd:`\\`` to start"
+" terminal"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:31
+#: f8def374b2184a3dad6bdace6311b0c2
+msgid ""
+":kbd:`\\`` - ticks are typically below :kbd:`~` and to left from :kbd:`1`"
+" on the keyboard"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:33
+#: fd3707516acb4cef8d5d9334c998e5e0
+msgid ""
+"Then to install ``sphinx``,  blue-white_ RTD theme_, sphinx-copybutton_, "
+"other packages, mentioned in ``./docs/requirements.txt``, and language "
+"server esbonio_ print the following command:"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:42
+#: 261ad9eee36e43d7a62486bd8923f44a
+msgid ""
+"For correct work RTL requires some additional dependencies -- ``esBonio``"
+" and ``reStructuredText Syntax highlighting``, that will be prompted to "
+"you during installation of RTL, so be careful and agree to install them "
+"and later install esbonio server."
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:45
+#: 4e1d373126b4460cb92f2729e223a009
+msgid ""
+"In VS Code extension market find reStructuredText_ and press ``install``."
+" Follow prompts to install dependencies and run them."
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:49
+#: b3c720d3922f4ef18b5d9ac44cd74e86
+msgid "Congrat!"
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:50
+#: 80a912176a384a08aad13dcfcd004cff
+msgid "Now you can use preview button |preview_ico| in VS Code on ``.rst`` files."
+msgstr ""
+
+#: ../../docs/source/start/contribute/make_lextudio_work.rst:60
+#: f762320bec124e4d87ad35661d317849
+msgid "preview_ico"
+msgstr ""
+
+#: ../../docs/source/start/contributing.rst:2 0074f5a7abd64a5c9288e1effa801e9c
+msgid "Contributing"
+msgstr ""
+
+#: ../../docs/source/start/contributing.rst:5 f3ef26208ec047dfbd42f82b4e309e4f
+msgid "Documentation"
+msgstr ""
+
+#: ../../docs/source/start/contributing.rst:7 58a04903086941a88eaac8c5a7808461
+msgid ""
+"We welcome any your support in documenting your Kuwaiba journey in order "
+"to share with other users and commit to retain the easy to use and "
+"helpful support to start documenting. Don't hesitate to start writing "
+"even if the words github, restructured text and pull request are "
+":doc:`new for you</start/contribute/absolute_beginner>`. Nevertheless the"
+" actual working surrounding is quite comprehensive, we will try to make "
+"any small step easier and let you concentrate on the issue."
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:2 bab0877f266342a5979b5a6ad7d6c21e
+msgid "Onboarding"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:5 97a0c3dd7e714d2dbf98f4a9dbe60a83
+msgid "Overview"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:6 80efc2e43fb44b47a2286589a5c4dd34
+msgid "some overview..."
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:8 695eed8b4289433d8c80d968f5e712cb
+msgid "Kuwaiba is:"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:10 30e6ecf26fcd4b7a86df8f5941ff50be
+msgid "flexible"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:11 a6aaff43c9664431ac6bb0fb3c2690ef
+msgid "powerful"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:12 373f8b50fb1140fcb4ffb2431f9cc60a
+msgid "sometimes **too powerful**"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:13 3436b50cda134c35a3c91adff7e68a47
+msgid "verbose"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:19 f694d8a21e474827888346bb5b725c51
+msgid "Let's try"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:22 05b7bb2af655425e9090d24e23491877
+msgid "online"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:23 a067e3ba44924571992fec08f96f4256
+msgid "to be developed"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:26 fbda310f9a5d4e619f6f31653adaefae
+msgid "local"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:27 c9b349d11a4342ceb0ca5e28801f57ca
+msgid ""
+"The easiest way to try *Kuwaiba* -- use it containerized_, first install "
+"it to local machine using docker:"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:35 bbe1aea5a04e418db4943bf9d92e0d9a
+msgid ""
+"Then from your browser access http://localhost:8080/kuwaiba and login "
+"using ``admin`` and password ``kuwaiba``"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:42 df451df612414934a685998300e5499f
+msgid ""
+"The main difference between *online* and *local* trial -- for security "
+"reasons *online* Kuwaiba sandbox keeps the scripts unable to crete or "
+"edit: reports, tasks, validators. But you can run existing scripts "
+"easily."
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:47 e9637872cd744a95b20c879a6dd5e0fd
+msgid "First steps"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:48 bfc58d9bf29c461ca87082f26e83f3e9
+msgid ""
+"To add a new building use *Navigation* knob at the top menu and choose "
+"*Navigation* text button. In the new window simply choose *Go to Root*, "
+"then choose a continent / country / city and from the kebab menu to the "
+"right of city info choose *add New Object*. Select a class *building* and"
+" print the name. That's it. You can find the new building in the city."
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:55 a8babbf1a4c9436cb6c2d7a2c8c62f52
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../../docs/source/start/onboarding.rst:56 3d6c0a28dfdb40b78f3e0c879288362e
+msgid "under development"
+msgstr ""
+
+#: ../../docs/source/tutorials/reporting.rst:2 2f1959d3d5a24f0db275bb623916fc49
+msgid "Reporting"
+msgstr ""
+
+#: ../../docs/source/user/web_interface.rst:2 0c89a5e32ac04149b1a7624b3cfcae2c
+msgid "Web Interface"
+msgstr ""
+
