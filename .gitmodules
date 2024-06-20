@@ -1,3 +1,4 @@
-[submodule "kuwaiba_docs"]
-	path = kuwaiba_docs
+
+[submodule "docs"]
+	path = docs
 	url = https://github.com/SabNK/kuwaiba_docs
