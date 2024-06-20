@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Kuwaiba 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-18 13:23+0300\n"
-"PO-Revision-Date: 2024-06-20 08:38+0000\n"
+"PO-Revision-Date: 2024-06-20 15:04+0000\n"
 "Last-Translator: Nick Sabinin <sabnk.optictelecom@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/kuwaiba/kuwaiba/"
 "ru/>\n"
@@ -309,6 +309,9 @@ msgid ""
 "Control` + :kbd:`⇧ Shift` + :kbd:`P` and command ``Python: Select "
 "Interpreter``"
 msgstr ""
+"Если установлено несколько версий Python, определите нужную нажатием :kbd:`⌃ "
+"Control` + :kbd:`⇧ Shift` + :kbd:`P` и выберите команду ``Python: Select "
+"Interpreter``"
 
 #: ../../docs/source/start/contribute/make_lextudio_work.rst:28
 #: 193d42e559974c949ea46e39176499fb
