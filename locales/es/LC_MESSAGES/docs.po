@@ -3,41 +3,47 @@
 # This file is distributed under the same license as the Kuwaiba package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Kuwaiba 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-18 13:23+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2024-06-18 16:34+0000\n"
+"Last-Translator: Nick Sabinin <sabnk.optictelecom@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/kuwaiba/kuwaiba/"
+"es/>\n"
 "Language: es\n"
-"Language-Team: es <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6-dev\n"
 "Generated-By: Babel 2.15.0\n"
 
 #: ../../docs/source/admin/backup.rst:2 84697a5079e14497a5be2a526ee1385d
+#, fuzzy
 msgid "Backup"
-msgstr ""
+msgstr "Copia de seguridad"
 
 #: ../../docs/source/admin/installation.rst:2 d6e5393facb1451e80169c70277a7679
+#, fuzzy
 msgid "Installation"
-msgstr ""
+msgstr "Instalación"
 
 #: ../../docs/source/admin/logging.rst:2 083f1988b17c41fb93639113393f8af7
+#, fuzzy
 msgid "Logging"
-msgstr ""
+msgstr "Registro"
 
 #: ../../docs/source/admin/product_desc.rst:2 669dfb17e8e247928b442ccf95509b69
+#, fuzzy
 msgid "Product Description"
-msgstr ""
+msgstr "Descripción del producto"
 
 #: ../../docs/source/concepts/onthology.rst:2 71cc6aa722884d999dbf797519a2982c
+#, fuzzy
 msgid "Onthology"
-msgstr ""
+msgstr "Ontología"
 
 #: ../../docs/source/concepts/onthology.rst:4 0c985ad300764cec881a36d7591e7211
 msgid ""
@@ -464,4 +470,3 @@ msgstr ""
 #: ../../docs/source/user/web_interface.rst:2 0c89a5e32ac04149b1a7624b3cfcae2c
 msgid "Web Interface"
 msgstr ""
-
