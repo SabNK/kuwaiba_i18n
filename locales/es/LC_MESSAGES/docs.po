@@ -3,41 +3,42 @@
 # This file is distributed under the same license as the Kuwaiba package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Kuwaiba 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-20 20:37+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2024-06-18 13:23+0300\n"
+"PO-Revision-Date: 2024-06-18 16:34+0000\n"
+"Last-Translator: Nick Sabinin <sabnk.optictelecom@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/kuwaiba/kuwaiba/"
+"es/>\n"
 "Language: es\n"
-"Language-Team: es <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6-dev\n"
 "Generated-By: Babel 2.15.0\n"
 
-#: ../../source/admin/backup.rst:2 f1f36b7ab15c4772b98a7e410110cab2
+#: ../../docs/source/admin/backup.rst:2 84697a5079e14497a5be2a526ee1385d
 msgid "Backup"
-msgstr ""
+msgstr "Copia de seguridad"
 
-#: ../../source/admin/installation.rst:2 29f1189a4a0d42f295f88ada93732d77
+#: ../../docs/source/admin/installation.rst:2 d6e5393facb1451e80169c70277a7679
 msgid "Installation"
-msgstr ""
+msgstr "Instalación"
 
-#: ../../source/admin/logging.rst:2 73ee2ffc985a4f848a8ec89c0d3be13a
+#: ../../docs/source/admin/logging.rst:2 083f1988b17c41fb93639113393f8af7
 msgid "Logging"
-msgstr ""
+msgstr "Registro"
 
-#: ../../source/admin/product_desc.rst:2 1de6f8f1edf74da1b472edeae2da3882
+#: ../../docs/source/admin/product_desc.rst:2 669dfb17e8e247928b442ccf95509b69
 msgid "Product Description"
-msgstr ""
+msgstr "Descripción del producto"
 
-#: ../../source/concepts/onthology.rst:2 e029a1f39640408c97a3ac9ce21c8f88
+#: ../../docs/source/concepts/onthology.rst:2 71cc6aa722884d999dbf797519a2982c
 msgid "Onthology"
-msgstr ""
+msgstr "Ontología"
 
 #: ../../source/concepts/onthology.rst:4 c08360f56c874f6bbbe6f5995ac7ff98
 msgid ""
@@ -474,18 +475,4 @@ msgstr ""
 #: ../../source/user/web_interface.rst:2 f2f534a39dcd458f804faaa4b5426e51
 msgid "Web Interface"
 msgstr ""
-
-#~ msgid ""
-#~ "Kuwaiba documentation is build on "
-#~ "ReadTheDocs_ (RTD) platform. That means "
-#~ "automatic documentation deployment with the"
-#~ " Sphinx_ engine. To work with that"
-#~ " platform you need git_ installed, "
-#~ "`github account`_ and `text editor`_, "
-#~ "working with git. We prefer `VS "
-#~ "Code`_, so the following story will "
-#~ "be in relation with this editor, "
-#~ "but you can work with the one "
-#~ "of your choice."
-#~ msgstr ""
 
