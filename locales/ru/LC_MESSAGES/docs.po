@@ -11,10 +11,6 @@ msgstr ""
 "PO-Revision-Date: 2024-06-20 15:04+0000\n"
 "Last-Translator: Nick Sabinin <sabnk.optictelecom@gmail.com>\n"
 "Language: ru\n"
-"Language-Team: Russian "
-"<https://hosted.weblate.org/projects/kuwaiba2/ku/ru/>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,10 +55,12 @@ msgid ""
 "**RST** - reStructuredText - a `lightweight markup language`_ used for "
 "technical documentation"
 msgstr ""
+"**RST** - reStructuredText - это `облегченный язык разметки, <lightweight "
+"markup language>`_ используемый для написания технической документации"
 
 #: ../../source/concepts/ontology.rst:15 1f37ce1d3992432a9cbd7400b14310da
 msgid "**RTD** - ReadTheDocs - a platform for documentation"
-msgstr ""
+msgstr "**RTD** - ReadTheDocs - платформа для документации"
 
 #: ../../source/concepts/ontology.rst:19 288288609e1c4d6888690054f47984f5
 msgid ""
@@ -184,7 +182,7 @@ msgstr ""
 #: ../../source/start/contribute/absolute_beginner.rst:10
 #: 581444372aee41cf9b8059d896b25e2d
 msgid "What is Git"
-msgstr ""
+msgstr "Что такое Git"
 
 #: ../../source/start/contribute/absolute_beginner.rst:11
 #: ec938044a3b74554adfada31c1c1a5ef
